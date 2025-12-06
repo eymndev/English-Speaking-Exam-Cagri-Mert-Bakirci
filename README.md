@@ -22,4 +22,6 @@
 [PDF](/docs/poster/Poster.pdf)
 
 [Editable PDF](/docs/poster/Poster-editable.pdf)
+
+[Big PNG](/docs/poster/Poster-big.png)
 </details>
