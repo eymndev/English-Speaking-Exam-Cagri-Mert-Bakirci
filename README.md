@@ -30,5 +30,5 @@
 
 
 [Latest version](https://github.com/eymndev/English-Speaking-Exam-Cagri-Mert-Bakirci/releases/latest)
-
+&
 [My blog](eymndev.xyz/)
